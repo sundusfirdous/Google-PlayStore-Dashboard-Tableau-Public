@@ -1,5 +1,7 @@
 # Google-PlayStore-Dashboard-Tableau-Public
 
+<img width="1920" height="976" alt="image" src="https://github.com/user-attachments/assets/92322754-9b81-4d23-986b-e23ae0828f06" />
+
 
 ## 🌟 Key Features & Insights
 
