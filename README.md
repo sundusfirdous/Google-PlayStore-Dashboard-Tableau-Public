@@ -2,7 +2,9 @@
 
 [Click here to view the Tableau Dashboard](https://public.tableau.com/app/profile/sundus.firdous/viz/Google_Play_Store_Dashboard_17541297124650/Dashboard)
 
-<img width="1920" height="976" alt="image" src="https://github.com/user-attachments/assets/92322754-9b81-4d23-986b-e23ae0828f06" />
+
+<img width="1920" height="971" alt="image" src="https://github.com/user-attachments/assets/10cbaf8d-5bf3-43ed-b3ba-e9ded6314fc6" />
+
 
 
 ## 🌟 Key Features & Insights
