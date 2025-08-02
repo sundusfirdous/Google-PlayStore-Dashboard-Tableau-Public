@@ -1,5 +1,7 @@
 # Google-PlayStore-Dashboard-Tableau-Public
 
+[Click here to view the Tableau Dashboard](https://public.tableau.com/app/profile/sundus.firdous/viz/Google_Play_Store_Dashboard_17541265197940/Dashboard)
+
 <img width="1920" height="976" alt="image" src="https://github.com/user-attachments/assets/92322754-9b81-4d23-986b-e23ae0828f06" />
 
 
